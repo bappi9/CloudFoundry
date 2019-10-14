@@ -3,8 +3,8 @@ Cloud Foundry
 
 Cloud Foundry Login:
 cf  login -a api.run.pivotal.io
-Email: bappisarker9@gmail.com
-password:Abu@710436
+Email: test@gmail.com
+password:test
 CF Target Space Change
 cf  target -s space name
 Push command
